@@ -6,6 +6,6 @@
 
 2. 前往本项目的 release 页面，下载 typora-theme-poetry.zip 压缩包。
 
-3. 打开 Typora，通过设置 -> 外观  -> 打开主题文件夹打开 theme 目录。
+3. 打开 Typora，通过设置 -> 外观  -> 打开主题文件夹打开 themes 目录。
 
-4. 将 typora-theme-poetry.zip 解压后把 poetry.css 复制到 theme 目录下，然后重启 Typora, 选择菜单栏 -> 主题 -> 选择 poetry 即可。
+4. 将 typora-theme-poetry.zip 解压后把 poetry.css 复制到 themes 目录下，然后重启 Typora, 选择菜单栏 -> 主题 -> 选择 poetry 即可。
